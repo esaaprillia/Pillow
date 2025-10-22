@@ -2,7 +2,7 @@
 build-backend = "backend"
 requires = [
   "pybind11",
-  "setuptools>=77",
+  "setuptools",
 ]
 backend-path = [
   "_custom_build",
